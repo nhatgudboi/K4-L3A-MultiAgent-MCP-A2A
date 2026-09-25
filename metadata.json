@@ -1,0 +1,8 @@
+{
+  "competition_id": "day09-multiagent-mcp-a2a",
+  "variant_id": "l3a",
+  "model_name": "rule-based",
+  "model_provider": "none",
+  "model_parameters": "<=10B",
+  "architecture": "Multi-Agent System (Coordinator, Order/Item Agent, Shipment Agent, Payment Agent, Policy Agent, Verifier Agent)"
+}
